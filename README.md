@@ -1,7 +1,5 @@
 # summarizationSQL
 
-# summarizationRussianNews
-
 # Суммаризация sql-запросов
 
 Набор данных доступен по ссылке: https://github.com/ai-spiderweb/pauq
